@@ -1,12 +1,14 @@
-# VISUALIZACIONES (Circle Packing-Sunburst-Ridgeline Chart)
+# VISUALIZACIONES 
 
+## Circle Packing
+![alt text](https://github.com/maiderdorronsoro/visualizacion.github.io/blob/main/circle_packing.png?raw=true)
 
-https://maiderdorronsoro.github.io/visualizacion.github.io/Visualization.ipynb
+## Sunburst
+![alt text](https://github.com/maiderdorronsoro/visualizacion.github.io/blob/main/sunburst.png?raw=true)
 
-https://raw.githubusercontent.com/maiderdorronsoro.github.io/visualizacion.github.io/Visualization.ipynb
+## Ridgeline Chart
 
-https://raw.githubusercontent.com/usuario/repositorio/rama/ruta/al/asset
-
+![alt text](https://github.com/maiderdorronsoro/visualizacion.github.io/blob/main/circle_packing.png?raw=true)
 
 
                 
