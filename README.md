@@ -10,7 +10,7 @@ Dentro del script se podrá ver como algunas de ellas on dinámicas.
 
 ## Ridgeline Chart
 
-![alt text](https://github.com/maiderdorronsoro/visualizacion.github.io/blob/main/circle_packing.png?raw=true)
+![alt text](https://github.com/maiderdorronsoro/visualizacion.github.io/blob/main/Ridgeline.png?raw=true)
 
 
                 
