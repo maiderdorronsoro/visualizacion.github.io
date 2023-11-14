@@ -1,0 +1,61 @@
+[{"id": "AA","datum":169,"children": [
+            {"id": "IT & FINANCE","datum":56,
+             "children": [
+                 {"id":"IT", "datum":17 ,
+                  "children": [
+                      {"id":"DATA", "datum": 12}, 
+                      {"id":"INFRA", "datum": 5}
+                  ]},
+                 {"id":"FINANCE","datum":39 ,
+                  "children": [
+                      {"id":"CORPORATE", "datum": 14}, 
+                      {"id":"CONTABILIDAD", "datum": 13},
+                      {"id":"CASH & CLIENTS", "datum": 12}
+                  ]}
+             ]},
+            {"id": "SUPPLY","datum":35,
+             "children": [
+                 {"id":"DEMAND","datum": 5,
+                  "children": [
+                      {"id":"DEM", "datum": 5}
+                  ]},
+                 {"id":"LOGISTICA","datum": 3,
+                  "children": [
+                      {"id":"LOG", "datum": 3} 
+                  ]},
+                 {"id":"PLANNING", "datum": 3,
+                  "children": [
+                      {"id":"PLA", "datum": 3} 
+                  ]},
+                 {"id":"PRODUCCIÓN","datum":24, 
+                  "children": [
+                      {"id":"PRP_1", "datum": 4}, 
+                      {"id":"PRP_2", "datum": 13},
+                      {"id":"PRP_3", "datum": 7}
+                  ]}
+             ]},
+            {"id": "PROCUREMENT","datum":17,
+             "children": [
+                 {"id":"BUYING","datum":17, 
+                  "children": [
+                      {"id":"HC", "datum": 8}, 
+                      {"id":"BB", "datum": 9}
+                  ]}
+             ]},
+            {"id": "SALES", "datum":61,
+             "children": [
+                 {"id":"RETAIL", "datum":37, 
+                  "children": [
+                      {"id":"KAMS", "datum": 14}, 
+                      {"id":"TRADE", "datum": 6},
+                      {"id":"PoS", "datum": 17}
+                  ]},
+                 {"id":"HORECA", "datum":30,
+                  "children": [
+                      {"id":"FS", "datum": 13}, 
+                      {"id":"HOR", "datum": 17}
+                  ]}
+             ]}
+]
+      }
+     ]
